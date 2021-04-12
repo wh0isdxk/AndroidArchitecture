@@ -15,3 +15,11 @@ Como complemento do material de Engenharia Reversa, aqui teremos de uma maneira 
 - Location Manager:  Provides an interface for setting and retrieving (GPS, cell, WiFi) location information, such as location/coordinates
 
 - Notification Manager: Manages various event notifi cations, such as playing sounds, vibrating, fl ashing LEDs, and displaying icons in the status ba
+
+
+
+
+<p align="center">  
+<img src="https://d30womf5coomej.cloudfront.net/c/72/02495fb6-5a9e-4d73-8730-2710705651e8.gif" width="382"/>
+
+</p>
